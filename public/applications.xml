@@ -1,0 +1,1250 @@
+<applications>
+  <versions__delta>1</versions__delta>
+  <apps__hashcode>UP_35_</apps__hashcode>
+  <application>
+    <name>LIVE-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.114:8090</instanceId>
+      <hostName>10.10.16.114</hostName>
+      <app>LIVE-SERVICE</app>
+      <ipAddr>10.10.16.114</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8090</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1529587830471</registrationTimestamp>
+        <lastRenewalTimestamp>1530081894674</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1528166604304</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8090</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.114:8090/</homePageUrl>
+      <statusPageUrl>http://10.10.16.114:8090/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.114:8090/health</healthCheckUrl>
+      <vipAddress>live-service</vipAddress>
+      <secureVipAddress>live-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529587830471</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529587829276</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>SMS-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.112:8085</instanceId>
+      <hostName>10.10.16.112</hostName>
+      <app>SMS-SERVICE</app>
+      <ipAddr>10.10.16.112</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8085</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1529041249259</registrationTimestamp>
+        <lastRenewalTimestamp>1530081903921</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192635556</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8085</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.112:8085/</homePageUrl>
+      <statusPageUrl>http://10.10.16.112:8085/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.112:8085/health</healthCheckUrl>
+      <vipAddress>sms-service</vipAddress>
+      <secureVipAddress>sms-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529041249259</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529041248051</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_AUTHR_SCHOOL</name>
+    <instance>
+      <instanceId>10.10.16.106:3002</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_AUTHR_SCHOOL</app>
+      <ipAddr>10.10.16.106</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3002</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530079957614</registrationTimestamp>
+        <lastRenewalTimestamp>1530081939055</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1516004053976</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.106</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530079957614</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530079957614</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>DD-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.116:8099</instanceId>
+      <hostName>10.10.16.116</hostName>
+      <app>DD-SERVICE</app>
+      <ipAddr>10.10.16.116</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8099</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530080562760</registrationTimestamp>
+        <lastRenewalTimestamp>1530081911727</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1529650349539</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8099</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.116:8099/</homePageUrl>
+      <statusPageUrl>http://10.10.16.116:8099/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.116:8099/health</healthCheckUrl>
+      <vipAddress>dd-service</vipAddress>
+      <secureVipAddress>dd-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530080562760</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530080561592</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_MBOP_STU</name>
+    <instance>
+      <instanceId>10.10.16.107:3005</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_MBOP_STU</app>
+      <ipAddr>10.10.16.107</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3005</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530037901375</registrationTimestamp>
+        <lastRenewalTimestamp>1530081920265</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1523953547723</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.107</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530037901375</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530037901375</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_OBS</name>
+    <instance>
+      <instanceId>10.10.16.107:3003</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_OBS</app>
+      <ipAddr>10.10.16.107</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3003</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530037328595</registrationTimestamp>
+        <lastRenewalTimestamp>1530081916965</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1517297062935</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.107</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530037328595</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530037328595</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>EDU-FUNCTION</name>
+    <instance>
+      <instanceId>10.10.16.114:8091</instanceId>
+      <hostName>10.10.16.114</hostName>
+      <app>EDU-FUNCTION</app>
+      <ipAddr>10.10.16.114</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8091</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530043084406</registrationTimestamp>
+        <lastRenewalTimestamp>1530081906592</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192625116</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8091</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.114:8091/</homePageUrl>
+      <statusPageUrl>http://10.10.16.114:8091/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.114:8091/health</healthCheckUrl>
+      <vipAddress>edu-function</vipAddress>
+      <secureVipAddress>edu-function</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530043084406</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530043083231</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PUBLIC-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.112:8084</instanceId>
+      <hostName>10.10.16.112</hostName>
+      <app>PUBLIC-SERVICE</app>
+      <ipAddr>10.10.16.112</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8084</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530041828185</registrationTimestamp>
+        <lastRenewalTimestamp>1530081909886</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1528160794062</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8084</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.112:8084/</homePageUrl>
+      <statusPageUrl>http://10.10.16.112:8084/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.112:8084/health</healthCheckUrl>
+      <vipAddress>public-service</vipAddress>
+      <secureVipAddress>public-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530041828186</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530041826945</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>QUEUE-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.115:8087</instanceId>
+      <hostName>10.10.16.115</hostName>
+      <app>QUEUE-SERVICE</app>
+      <ipAddr>10.10.16.115</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8087</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1529460258397</registrationTimestamp>
+        <lastRenewalTimestamp>1530081900318</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1521096455350</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8087</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.115:8087/</homePageUrl>
+      <statusPageUrl>http://10.10.16.115:8087/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.115:8087/health</healthCheckUrl>
+      <vipAddress>queue-service</vipAddress>
+      <secureVipAddress>queue-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529460258398</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529460258395</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>WEBSOCKET-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.117:8899</instanceId>
+      <hostName>10.10.16.117</hostName>
+      <app>WEBSOCKET-SERVICE</app>
+      <ipAddr>10.10.16.117</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8899</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530032767815</registrationTimestamp>
+        <lastRenewalTimestamp>1530081911226</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192623562</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8899</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.117:8899/</homePageUrl>
+      <statusPageUrl>http://10.10.16.117:8899/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.117:8899/health</healthCheckUrl>
+      <vipAddress>websocket-service</vipAddress>
+      <secureVipAddress>websocket-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530032767815</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530032766704</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>KEY-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.112:8083</instanceId>
+      <hostName>10.10.16.112</hostName>
+      <app>KEY-SERVICE</app>
+      <ipAddr>10.10.16.112</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8083</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1514192641466</registrationTimestamp>
+        <lastRenewalTimestamp>1530081886295</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192641466</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <homePageUrl>http://10.10.16.112:8083/</homePageUrl>
+      <statusPageUrl>http://10.10.16.112:8083/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.112:8083/health</healthCheckUrl>
+      <vipAddress>key-service</vipAddress>
+      <secureVipAddress>key-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1514192641466</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1504880228786</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_PASSPORT</name>
+    <instance>
+      <instanceId>10.10.16.106:3000</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_PASSPORT</app>
+      <ipAddr>10.10.16.106</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3000</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1529983445276</registrationTimestamp>
+        <lastRenewalTimestamp>1530081923736</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1516004046609</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.106</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529983445276</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529983445275</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_PORTAL</name>
+    <instance>
+      <instanceId>10.10.16.108:3007</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_PORTAL</app>
+      <ipAddr>10.10.16.108</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3007</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1529976545068</registrationTimestamp>
+        <lastRenewalTimestamp>1530081937823</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1516004151211</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.108</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529976545069</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529976545068</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_COURSE_DESIGNER</name>
+    <instance>
+      <instanceId>10.10.16.108:3006</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_COURSE_DESIGNER</app>
+      <ipAddr>10.10.16.108</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3006</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530038918872</registrationTimestamp>
+        <lastRenewalTimestamp>1530081918414</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1516065255850</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.108</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530038918872</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530038918872</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>ZUUL-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.111:8080</instanceId>
+      <hostName>10.10.16.111</hostName>
+      <app>ZUUL-SERVICE</app>
+      <ipAddr>10.10.16.111</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8080</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1529649683184</registrationTimestamp>
+        <lastRenewalTimestamp>1530081911289</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1527757062789</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8080</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.111:8080/</homePageUrl>
+      <statusPageUrl>http://10.10.16.111:8080/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.111:8080/health</healthCheckUrl>
+      <vipAddress>zuul-service</vipAddress>
+      <secureVipAddress>zuul-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529649683184</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529649681938</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>SCHOOL-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.113:8082</instanceId>
+      <hostName>10.10.16.113</hostName>
+      <app>SCHOOL-SERVICE</app>
+      <ipAddr>10.10.16.113</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8082</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530032601034</registrationTimestamp>
+        <lastRenewalTimestamp>1530081893862</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1528160816037</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8082</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.113:8082/</homePageUrl>
+      <statusPageUrl>http://10.10.16.113:8082/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.113:8082/health</healthCheckUrl>
+      <vipAddress>school-service</vipAddress>
+      <secureVipAddress>school-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530032601034</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530032600094</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>ABILITY-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.116:8093</instanceId>
+      <hostName>10.10.16.116</hostName>
+      <app>ABILITY-SERVICE</app>
+      <ipAddr>10.10.16.116</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8093</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1526456829172</registrationTimestamp>
+        <lastRenewalTimestamp>1530081914951</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1526456769151</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <homePageUrl>http://10.10.16.116:8093/</homePageUrl>
+      <statusPageUrl>http://10.10.16.116:8093/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.116:8093/health</healthCheckUrl>
+      <vipAddress>ability-service</vipAddress>
+      <secureVipAddress>ability-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1526456829172</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1526456829182</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>DOCUMENT-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.116:8096</instanceId>
+      <hostName>10.10.16.116</hostName>
+      <app>DOCUMENT-SERVICE</app>
+      <ipAddr>10.10.16.116</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8096</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530034566703</registrationTimestamp>
+        <lastRenewalTimestamp>1530081909516</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192641161</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8096</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.116:8096/</homePageUrl>
+      <statusPageUrl>http://10.10.16.116:8096/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.116:8096/health</healthCheckUrl>
+      <vipAddress>document-service</vipAddress>
+      <secureVipAddress>document-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530034566703</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530034565526</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_MBOP</name>
+    <instance>
+      <instanceId>10.10.16.106:3001</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_MBOP</app>
+      <ipAddr>10.10.16.106</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3001</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530036552744</registrationTimestamp>
+        <lastRenewalTimestamp>1530081919655</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1526265952106</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.106</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530036552744</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530036552744</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>COURSE-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.113:8086</instanceId>
+      <hostName>10.10.16.113</hostName>
+      <app>COURSE-SERVICE</app>
+      <ipAddr>10.10.16.113</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8086</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530033670673</registrationTimestamp>
+        <lastRenewalTimestamp>1530081913533</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514447608583</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8086</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.113:8086/</homePageUrl>
+      <statusPageUrl>http://10.10.16.113:8086/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.113:8086/health</healthCheckUrl>
+      <vipAddress>course-service</vipAddress>
+      <secureVipAddress>course-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530033670674</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530033669745</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>EUREKA-SERVER</name>
+    <instance>
+      <instanceId>10.10.16.111:8088</instanceId>
+      <hostName>10.10.16.111</hostName>
+      <app>EUREKA-SERVER</app>
+      <ipAddr>10.10.16.111</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8088</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1514192649180</registrationTimestamp>
+        <lastRenewalTimestamp>1530081924383</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192646929</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <homePageUrl>http://10.10.16.111:8088/</homePageUrl>
+      <statusPageUrl>http://10.10.16.111:8088/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.111:8088/health</healthCheckUrl>
+      <vipAddress>eureka-server</vipAddress>
+      <secureVipAddress>eureka-server</secureVipAddress>
+      <isCoordinatingDiscoveryServer>true</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1514192649180</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1514192619132</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>CASE-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.116:8095</instanceId>
+      <hostName>10.10.16.116</hostName>
+      <app>CASE-SERVICE</app>
+      <ipAddr>10.10.16.116</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8095</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530034631973</registrationTimestamp>
+        <lastRenewalTimestamp>1530081914951</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1516849069067</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8095</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.116:8095/</homePageUrl>
+      <statusPageUrl>http://10.10.16.116:8095/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.116:8095/health</healthCheckUrl>
+      <vipAddress>case-service</vipAddress>
+      <secureVipAddress>case-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530034631973</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530034631091</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>USER-CENTER</name>
+    <instance>
+      <instanceId>10.10.16.113:8081</instanceId>
+      <hostName>10.10.16.113</hostName>
+      <app>USER-CENTER</app>
+      <ipAddr>10.10.16.113</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8081</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530035826152</registrationTimestamp>
+        <lastRenewalTimestamp>1530081908445</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192625657</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8081</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.113:8081/</homePageUrl>
+      <statusPageUrl>http://10.10.16.113:8081/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.113:8081/health</healthCheckUrl>
+      <vipAddress>user-center</vipAddress>
+      <secureVipAddress>user-center</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530035826152</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530035824829</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_PROD_CASE</name>
+    <instance>
+      <instanceId>10.10.16.109:3009</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_PROD_CASE</app>
+      <ipAddr>10.10.16.109</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3009</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530036867755</registrationTimestamp>
+        <lastRenewalTimestamp>1530081939242</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1523950769035</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.109</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530036867756</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530036867755</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>ARRANGE-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.116:8098</instanceId>
+      <hostName>10.10.16.116</hostName>
+      <app>ARRANGE-SERVICE</app>
+      <ipAddr>10.10.16.116</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8098</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1528160906542</registrationTimestamp>
+        <lastRenewalTimestamp>1530081909492</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1527065247882</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8098</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.116:8098/</homePageUrl>
+      <statusPageUrl>http://10.10.16.116:8098/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.116:8098/health</healthCheckUrl>
+      <vipAddress>arrange-service</vipAddress>
+      <secureVipAddress>arrange-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1528160906542</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1528160905362</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>SALES-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.114:8089</instanceId>
+      <hostName>10.10.16.114</hostName>
+      <app>SALES-SERVICE</app>
+      <ipAddr>10.10.16.114</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8089</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530040810374</registrationTimestamp>
+        <lastRenewalTimestamp>1530081912667</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192627129</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8089</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.114:8089/</homePageUrl>
+      <statusPageUrl>http://10.10.16.114:8089/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.114:8089/health</healthCheckUrl>
+      <vipAddress>sales-service</vipAddress>
+      <secureVipAddress>sales-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530040810374</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530040809056</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>QUARTZ-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.115:8092</instanceId>
+      <hostName>10.10.16.115</hostName>
+      <app>QUARTZ-SERVICE</app>
+      <ipAddr>10.10.16.115</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8092</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530080810985</registrationTimestamp>
+        <lastRenewalTimestamp>1530081889736</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192646478</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8092</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.115:8092/</homePageUrl>
+      <statusPageUrl>http://10.10.16.115:8092/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.115:8092/health</healthCheckUrl>
+      <vipAddress>quartz-service</vipAddress>
+      <secureVipAddress>quartz-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530080810986</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530080809623</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>MAJOR-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.115:8093</instanceId>
+      <hostName>10.10.16.115</hostName>
+      <app>MAJOR-SERVICE</app>
+      <ipAddr>10.10.16.115</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8093</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530040211813</registrationTimestamp>
+        <lastRenewalTimestamp>1530081914166</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192630790</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8093</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.115:8093/</homePageUrl>
+      <statusPageUrl>http://10.10.16.115:8093/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.115:8093/health</healthCheckUrl>
+      <vipAddress>major-service</vipAddress>
+      <secureVipAddress>major-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530040211813</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530040210613</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>EXAM-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.117:8097</instanceId>
+      <hostName>10.10.16.117</hostName>
+      <app>EXAM-SERVICE</app>
+      <ipAddr>10.10.16.117</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8097</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1530033613675</registrationTimestamp>
+        <lastRenewalTimestamp>1530081887145</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1521687496247</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8097</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.117:8097/</homePageUrl>
+      <statusPageUrl>http://10.10.16.117:8097/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.117:8097/health</healthCheckUrl>
+      <vipAddress>exam-service</vipAddress>
+      <secureVipAddress>exam-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530033613675</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530033612643</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_PROD_POINT</name>
+    <instance>
+      <instanceId>10.10.16.109:3012</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_PROD_POINT</app>
+      <ipAddr>10.10.16.109</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3012</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530078344652</registrationTimestamp>
+        <lastRenewalTimestamp>1530081917640</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1529460160360</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.109</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530078344653</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530078344652</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>CONFIG-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.111:8888</instanceId>
+      <hostName>10.10.16.111</hostName>
+      <app>CONFIG-SERVICE</app>
+      <ipAddr>10.10.16.111</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8888</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1526456725478</registrationTimestamp>
+        <lastRenewalTimestamp>1530081910573</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1514192634631</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <homePageUrl>http://10.10.16.111:8888/</homePageUrl>
+      <statusPageUrl>http://10.10.16.111:8888/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.111:8888/health</healthCheckUrl>
+      <vipAddress>config-service</vipAddress>
+      <secureVipAddress>config-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1526456725478</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1526456725476</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_POINT_CLASS</name>
+    <instance>
+      <instanceId>10.10.16.109:3011</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_POINT_CLASS</app>
+      <ipAddr>10.10.16.109</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3011</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530079649352</registrationTimestamp>
+        <lastRenewalTimestamp>1530081931371</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1529460164384</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.109</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530079649353</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530079649352</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_PROD_CLASS</name>
+    <instance>
+      <instanceId>10.10.16.108:3008</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_PROD_CLASS</app>
+      <ipAddr>10.10.16.108</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3008</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1527839472150</registrationTimestamp>
+        <lastRenewalTimestamp>1530081936318</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1523934526396</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.108</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1527839472150</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1527839472150</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>RELYONWIN-SERVICE</name>
+    <instance>
+      <instanceId>10.10.16.93:8097</instanceId>
+      <hostName>10.10.16.93</hostName>
+      <app>RELYONWIN-SERVICE</app>
+      <ipAddr>10.10.16.93</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">8097</port>
+      <securePort enabled="false">443</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>60</durationInSecs>
+        <registrationTimestamp>1529460240067</registrationTimestamp>
+        <lastRenewalTimestamp>1530081910614</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1529047818070</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata>
+        <management.port>8097</management.port>
+      </metadata>
+      <homePageUrl>http://10.10.16.93:8097/</homePageUrl>
+      <statusPageUrl>http://10.10.16.93:8097/info</statusPageUrl>
+      <healthCheckUrl>http://10.10.16.93:8097/health</healthCheckUrl>
+      <vipAddress>relyonwin-service</vipAddress>
+      <secureVipAddress>relyonwin-service</secureVipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1529460240067</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1529460316493</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>PBU_MBOP_TCH</name>
+    <instance>
+      <instanceId>10.10.16.107:3004</instanceId>
+      <hostName>localhost</hostName>
+      <app>PBU_MBOP_TCH</app>
+      <ipAddr>10.10.16.107</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3004</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530037061929</registrationTimestamp>
+        <lastRenewalTimestamp>1530081920762</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1523953212907</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.107</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530037061929</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530037061929</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+  <application>
+    <name>st_pbu_yc_portal</name>
+    <instance>
+      <instanceId>10.10.16.107:3004</instanceId>
+      <hostName>localhost</hostName>
+      <app>st_pbu_yc_portal</app>
+      <ipAddr>10.10.16.107</ipAddr>
+      <status>UP</status>
+      <overriddenstatus>UNKNOWN</overriddenstatus>
+      <port enabled="true">3004</port>
+      <securePort enabled="false">7002</securePort>
+      <countryId>1</countryId>
+      <dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
+        <name>MyOwn</name>
+      </dataCenterInfo>
+      <leaseInfo>
+        <renewalIntervalInSecs>30</renewalIntervalInSecs>
+        <durationInSecs>90</durationInSecs>
+        <registrationTimestamp>1530037061929</registrationTimestamp>
+        <lastRenewalTimestamp>1530081920762</lastRenewalTimestamp>
+        <evictionTimestamp>0</evictionTimestamp>
+        <serviceUpTimestamp>1523953212907</serviceUpTimestamp>
+      </leaseInfo>
+      <metadata class="java.util.Collections$EmptyMap"/>
+      <vipAddress>10.10.16.107</vipAddress>
+      <isCoordinatingDiscoveryServer>false</isCoordinatingDiscoveryServer>
+      <lastUpdatedTimestamp>1530037061929</lastUpdatedTimestamp>
+      <lastDirtyTimestamp>1530037061929</lastDirtyTimestamp>
+      <actionType>ADDED</actionType>
+    </instance>
+  </application>
+</applications>
